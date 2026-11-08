@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.1.0
+## 1.0.0
 
-First build for World of Warcraft: Forever, made from Mother's Purse 0.1.0 for retail.
+First release for World of Warcraft: Forever, made from Mother's Purse 0.1.0 for retail.
 
 - Hover an item in your bags and press Space to mark it as junk or a favorite, or Shift+Space to mark it for the auction house.
 - Junk is greyed out with a torn slash, favorites get a blue bookmark and auction items a gold coin that glows while the auction house is open.
