@@ -1,0 +1,7 @@
+package-as: MothersPurseForever
+
+manual-changelog: CHANGELOG.md
+
+ignore:
+  - README.md
+  - CHANGELOG.md

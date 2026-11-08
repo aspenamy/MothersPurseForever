@@ -1,0 +1,29 @@
+## Interface: 16001
+## Title: Mother's Purse Forever
+## Notes: Hover an item in your bags and press Space to mark it as junk or a favorite, or Shift+Space to set it aside for the auction house.
+## Author: Astreae
+## Version: @project-version@
+## IconTexture: Interface\AddOns\MothersPurseForever\media\Icon
+## X-License: All Rights Reserved
+## Category: Inventory
+## Category-deDE: Inventar
+## Category-esES: Inventario
+## Category-esMX: Inventario
+## Category-frFR: Inventaire
+## Category-itIT: Inventario
+## Category-koKR: 소지품
+## Category-ptBR: Inventário
+## Category-ruRU: Инвентарь
+## Category-zhCN: 物品栏
+## Category-zhTW: 物品欄
+## SavedVariables: MothersPurseForeverDB
+## OptionalDeps: Baganator, BagBrother, Bagnon, Auctionator
+
+MothersPurseForever.lua
+Hookups.lua
+Bags.lua
+Merchant.lua
+Baganator.lua
+Bagnon.lua
+Auctionator.lua
+Options.lua
