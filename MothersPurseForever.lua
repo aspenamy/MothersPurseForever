@@ -232,7 +232,7 @@ local function ForgetOldMarks()
   end
 end
 
--- Bound items (soulbound, warbound, quest items) can't go on the auction
+-- Bound items (soulbound, account-bound, quest items) can't go on the auction
 -- house, so they can't be marked for it.
 local UNTRADEABLE_BINDS = {
   [Enum.ItemBind.OnAcquire] = true,

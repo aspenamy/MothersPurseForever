@@ -15,7 +15,7 @@ WoW. Install the one that matches the game you play.
   gold coin in the top right.
 - **The tooltip says what the key will do.** Hovering shows a line at the
   bottom of the tooltip like "Mark as junk" or "Unmark item".
-- **Auction only where it makes sense.** Soulbound, warbound and quest items
+- **Auction only where it makes sense.** Soulbound, account-bound and quest items
   can't be marked for auction. While the auction house is open, auction items
   glow in your bags and on Auctionator's Selling tab.
 - **Grey items count as junk** unless you mark them as something else.
